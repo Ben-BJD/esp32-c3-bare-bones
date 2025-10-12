@@ -1,4 +1,4 @@
-# ESP32-C3 - Bare Bones DevKitM
+# ESP32-C3 - Bare Bones DevKitM - KiCAD Source Files
 
 This project is a work in progress.
 
@@ -19,5 +19,7 @@ The board will need to be programmed with an FDTI programmer as there is no USB 
 * [ESP32-C3-MINI-1 MCU Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf)
 * [ESP32-C3-DevKitM-1 Docs](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c3/esp32-c3-devkitm-1/user_guide.html)
 * [ESP32-C3-DevKitM-1 Schematic](https://dl.espressif.com/dl/schematics/SCH_ESP32-C3-DEVKITM-1_V1_20200915A.pdf)
+
+## Schematic:
 
 ![Board schematic](esp32-c3-bare-bones-schematic.png)
