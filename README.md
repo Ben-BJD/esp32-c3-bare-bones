@@ -8,7 +8,7 @@ Create a simplified custom PCB based on the [ESP32-C3-DevKitM-1](https://docs.es
 
 This board is designed to consume as little power as possible while in deep sleep. Ideally 5uF as per the ESP-32 [datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf). To this end the Voltage Reugulator, RGB LED, Power LED and USB-UART interface have been removed. Leaving just the MCU, Reset/Boot button and header pins.
 
-The board will need to be powered directly with a power source between 3.0 and 3.6v. It is important that the voltage never exceed 3.6v. Regular Lipo batteries typically have a maximum voltage of 4.7v so are not suitable.
+The board will need to be powered directly with a power source between 3.0 and 3.6v. It is important that the voltage never exceed 3.6v. Regular Lipo batteries typically have a maximum voltage of 4.2v so are not suitable.
 
 This board was designed to be powered by a 3.2v LiFePO4 battery. LiFePO4 batteries can reach 3.65v when fully charged. A BMS set to cut off at 3.6V or slightly lower will be necesary.
 
