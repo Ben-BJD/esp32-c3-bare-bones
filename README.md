@@ -22,4 +22,6 @@ The board will need to be programmed with an FDTI programmer as there is no USB 
 
 ## Schematic:
 
+[PDF Version](esp32-c3-bare-bones-schematic.pdf)
+
 ![Board schematic](esp32-c3-bare-bones-schematic.png)
