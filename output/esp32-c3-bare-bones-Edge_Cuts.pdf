@@ -1,0 +1,710 @@
+%PDF-1.5
+%ÄÅÇÉ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+x⁄çÃK
+√0–ΩO°Ÿ…÷	Y&GË¢PöM7Ω~˘AÇaûê∞HI$ÛlÒ1Q§æÌk˙<◊0tT9√`Ù'ªh¢≥Um«äí¿ú4Bù5Uß)ÿ≠Ω˜ñ3Re…nÕÙ_;¸√∆È1(
+endstream
+endobj
+6 0 obj
+113
+endobj
+21 0 obj
+[7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R]
+endobj
+22 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+/Annots 21 0 R>>
+endobj
+23 0 obj
+<</S /GoTo /D [22 0 R /Fit]
+>>
+endobj
+26 0 obj
+<</S /GoTo /D [22 0 R /FitR 453 410 469 184]
+>>
+endobj
+28 0 obj
+<</S /GoTo /D [22 0 R /FitR 419 309 430 302]
+>>
+endobj
+30 0 obj
+<</S /GoTo /D [22 0 R /FitR 390 410 406 184]
+>>
+endobj
+32 0 obj
+<</S /GoTo /D [22 0 R /FitR 401 283 438 230]
+>>
+endobj
+34 0 obj
+<</S /GoTo /D [22 0 R /FitR 407 281 419 274]
+>>
+endobj
+36 0 obj
+<</S /GoTo /D [22 0 R /FitR 406 307 423 298]
+>>
+endobj
+38 0 obj
+<</S /GoTo /D [22 0 R /FitR 432 312 443 306]
+>>
+endobj
+40 0 obj
+<</S /GoTo /D [22 0 R /FitR 406 302 423 293]
+>>
+endobj
+42 0 obj
+<</S /GoTo /D [22 0 R /FitR 406 313 423 305]
+>>
+endobj
+44 0 obj
+<</S /GoTo /D [22 0 R /FitR 388 398 472 286]
+>>
+endobj
+46 0 obj
+<</S /GoTo /D [22 0 R /FitR 423 283 458 230]
+>>
+endobj
+48 0 obj
+<</S /GoTo /D [22 0 R /FitR 436 277 453 268]
+>>
+endobj
+50 0 obj
+<</S /GoTo /D [22 0 R /FitR 406 277 423 268]
+>>
+endobj
+52 0 obj
+<</S /GoTo /D [22 0 R /FitR 440 281 452 274]
+>>
+endobj
+54 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+55 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+56 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+57 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 54 0 R
+    /KicadFontI 55 0 R
+    /KicadFontB 56 0 R
+    /KicadFontBI 57 0 R
+>>
+endobj
+3 0 obj
+<<
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [457.285 241.305 465.676 353.94]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J2"],
+["Value = ESW-115-44-G-S"],
+["Footprint = SAMTEC_ESW-115-44-G-S"],
+["MF = Samtec"],
+["Description_1 = CONN SOCKET 15POS 0.1 GOLD PCB"],
+["Package = None"],
+["Price = None"],
+["https://www.snapeda.com/parts/ESW-115-44-G-S/Samtec/view-part/?ref=eda", "https://www.snapeda.com/parts/ESW-115-44-G-S/Samtec/view-part/?ref=eda"],
+["STANDARD = Manufacturer Recommendations"],
+["PARTREV = R"],
+["https://www.snapeda.com/parts/ESW-115-44-G-S/Samtec/view-part/?ref=snap", "https://www.snapeda.com/parts/ESW-115-44-G-S/Samtec/view-part/?ref=snap"],
+["MP = ESW-115-44-G-S"],
+["Availability = In Stock"],
+["MANUFACTURER = Samtec"],
+]\);) >>
+>>
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [422.391 304.532 428.003 307.792]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R1"],
+["Value = 10k 1%"],
+["Footprint = RESC1005X37N"],
+["MF = Bourns"],
+["Description_1 = Resistor, AS 0402 10k 1% 63mW TC100 | Bourns CR0402AFX-1002GAS"],
+["Package = 0402-2 Bourns"],
+["Price = None"],
+["https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=snap", "https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=snap"],
+["MP = CR0402AFX-1002GAS"],
+["Availability = In Stock"],
+["https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=eda", "https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=eda"],
+]\);) >>
+>>
+endobj
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [394.356 241.305 402.746 353.94]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J1"],
+["Value = ESW-115-44-G-S"],
+["Footprint = SAMTEC_ESW-115-44-G-S"],
+["MF = Samtec"],
+["Description_1 = CONN SOCKET 15POS 0.1 GOLD PCB"],
+["Package = None"],
+["Price = None"],
+["https://www.snapeda.com/parts/ESW-115-44-G-S/Samtec/view-part/?ref=eda", "https://www.snapeda.com/parts/ESW-115-44-G-S/Samtec/view-part/?ref=eda"],
+["STANDARD = Manufacturer Recommendations"],
+["PARTREV = R"],
+["https://www.snapeda.com/parts/ESW-115-44-G-S/Samtec/view-part/?ref=snap", "https://www.snapeda.com/parts/ESW-115-44-G-S/Samtec/view-part/?ref=snap"],
+["MP = ESW-115-44-G-S"],
+["Availability = In Stock"],
+["MANUFACTURER = Samtec"],
+]\);) >>
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [410.598 243.658 425.622 264.351]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = BOOT"],
+["Value = SKRPARE010"],
+["Footprint = SKRPARE010"],
+["https://tech.alpsalpine.com/e/products/detail/SKRPARE010/", "https://tech.alpsalpine.com/e/products/detail/SKRPARE010/"],
+["Description = Tactile Switches F=5N ,100M min. 100V DC for 1 min. 250V AC for 1 min. 50mA 16V DC , -40 to +90"],
+["Height = 2.5"],
+["Manufacturer_Name = ALPS Electric"],
+["Manufacturer_Part_Number = SKRPARE010"],
+["Mouser Part Number = 688-SKRPARE010"],
+["https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPARE010?qs=w%2Fv1CP2dgqqtJ13ywv6BaA%3D%3D", "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPARE010?qs=w%2Fv1CP2dgqqtJ13ywv6BaA%3D%3D"],
+]\);) >>
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [410.769 276.186 416.381 279.446]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R2"],
+["Value = 10k 1%"],
+["Footprint = RESC1005X37N"],
+["MF = Bourns"],
+["Description_1 = Resistor, AS 0402 10k 1% 63mW TC100 | Bourns CR0402AFX-1002GAS"],
+["Package = 0402-2 Bourns"],
+["Price = None"],
+["https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=snap", "https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=snap"],
+["MP = CR0402AFX-1002GAS"],
+["Availability = In Stock"],
+["https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=eda", "https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=eda"],
+]\);) >>
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [410.627 301.088 419.357 305.567]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C2"],
+["Value = 0.1uF 50V 10%"],
+["Footprint = CAPC1608X100N"],
+["MF = Taiyo Yuden"],
+["MAXIMUM_PACKAGE_HEIGHT = 1.00mm"],
+["Package = None"],
+["Price = None"],
+["https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=eda", "https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=eda"],
+["STANDARD = IPC-7351B"],
+["PARTREV = NA"],
+["https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=snap", "https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=snap"],
+["MP = MAJCU168BB7104KTEA01"],
+["Description_1 = 0.1uF 50V 10% Multilayer Ceramic Capacitor X7R 0603 \\u00281608 Metric\\u0029"],
+["Availability = In Stock"],
+["MANUFACTURER = Taiyo Yuden"],
+]\);) >>
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [435.331 308.076 440.943 311.335]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R4"],
+["Value = 10k 1%"],
+["Footprint = RESC1005X37N"],
+["MF = Bourns"],
+["Description_1 = Resistor, AS 0402 10k 1% 63mW TC100 | Bourns CR0402AFX-1002GAS"],
+["Package = 0402-2 Bourns"],
+["Price = None"],
+["https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=snap", "https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=snap"],
+["MP = CR0402AFX-1002GAS"],
+["Availability = In Stock"],
+["https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=eda", "https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=eda"],
+]\);) >>
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [410.627 295.419 419.357 299.898]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C3"],
+["Value = 10uF 25V 20%"],
+["Footprint = CAPC1608X100N"],
+["MF = Taiyo Yuden"],
+["MAXIMUM_PACKAGE_HEIGHT = 1.00mm"],
+["Package = 1608-2 Taiyo Yuden"],
+["Price = None"],
+["https://www.snapeda.com/parts/MLAST168BB5106MTNA01/Taiyo+Yuden/view-part/?ref=eda", "https://www.snapeda.com/parts/MLAST168BB5106MTNA01/Taiyo+Yuden/view-part/?ref=eda"],
+["STANDARD = IPC-7351B"],
+["PARTREV = NA"],
+["https://www.snapeda.com/parts/MLAST168BB5106MTNA01/Taiyo+Yuden/view-part/?ref=snap", "https://www.snapeda.com/parts/MLAST168BB5106MTNA01/Taiyo+Yuden/view-part/?ref=snap"],
+["MP = MLAST168BB5106MTNA01"],
+["Description_1 = 10uF 25V 20% Multilayer Ceramic Capacitor X5R 0603 \\u00281608 Metric\\u0029"],
+["Availability = In Stock"],
+["MANUFACTURER = Taiyo Yuden"],
+]\);) >>
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [410.769 307.466 419.216 311.661]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C1"],
+["Value = 1uF 16V 10%"],
+["Footprint = CAPC1608X90N"],
+["MF = Taiyo Yuden"],
+["MAXIMUM_PACKAGE_HEIGHT = 0.9mm"],
+["Package = 1608-2 Taiyo Yuden"],
+["Price = None"],
+["https://www.snapeda.com/parts/MLASE168SB7105KTNA01/Taiyo+Yuden/view-part/?ref=eda", "https://www.snapeda.com/parts/MLASE168SB7105KTNA01/Taiyo+Yuden/view-part/?ref=eda"],
+["STANDARD = IPC-7351B"],
+["PARTREV = NA"],
+["https://www.snapeda.com/parts/MLASE168SB7105KTNA01/Taiyo+Yuden/view-part/?ref=snap", "https://www.snapeda.com/parts/MLASE168SB7105KTNA01/Taiyo+Yuden/view-part/?ref=snap"],
+["MP = MLASE168SB7105KTNA01"],
+["Description_1 = 1uF 16V 10% Multilayer Ceramic Capacitor X7R 0603 \\u00281608 Metric\\u0029"],
+["Availability = In Stock"],
+["MANUFACTURER = Taiyo Yuden"],
+]\);) >>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [410.641 321.724 449.532 370.253]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = ESP32-C3-MINI-1"],
+["Value = ESP32-C3-MINI-1"],
+["Footprint = ESP32-C3-MINI-1"],
+["https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf", "https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf"],
+["Description = ESP32-C3-MINI-1 family is an ultra-low-power MCU-based SoC solution that supports 2.4 GHz Wi-Fi and Bluetooth\\u00AELow Energy \\u0028Bluetooth LE\\u0029."],
+]\);) >>
+>>
+endobj
+17 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [434.409 243.8 449.433 264.493]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = RESET"],
+["Value = SKRPARE010"],
+["Footprint = SKRPARE010"],
+["https://tech.alpsalpine.com/e/products/detail/SKRPARE010/", "https://tech.alpsalpine.com/e/products/detail/SKRPARE010/"],
+["Description = Tactile Switches F=5N ,100M min. 100V DC for 1 min. 250V AC for 1 min. 50mA 16V DC , -40 to +90"],
+["Height = 2.5"],
+["Manufacturer_Name = ALPS Electric"],
+["Manufacturer_Part_Number = SKRPARE010"],
+["Mouser Part Number = 688-SKRPARE010"],
+["https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPARE010?qs=w%2Fv1CP2dgqqtJ13ywv6BaA%3D%3D", "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPARE010?qs=w%2Fv1CP2dgqqtJ13ywv6BaA%3D%3D"],
+]\);) >>
+>>
+endobj
+18 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [440.674 270.616 449.405 275.094]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C5"],
+["Value = 0.1uF 50V 10%"],
+["Footprint = CAPC1608X100N"],
+["MF = Taiyo Yuden"],
+["MAXIMUM_PACKAGE_HEIGHT = 1.00mm"],
+["Package = None"],
+["Price = None"],
+["https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=eda", "https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=eda"],
+["STANDARD = IPC-7351B"],
+["PARTREV = NA"],
+["https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=snap", "https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=snap"],
+["MP = MAJCU168BB7104KTEA01"],
+["Description_1 = 0.1uF 50V 10% Multilayer Ceramic Capacitor X7R 0603 \\u00281608 Metric\\u0029"],
+["Availability = In Stock"],
+["MANUFACTURER = Taiyo Yuden"],
+]\);) >>
+>>
+endobj
+19 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [410.627 270.616 419.357 275.094]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C4"],
+["Value = 0.1uF 50V 10%"],
+["Footprint = CAPC1608X100N"],
+["MF = Taiyo Yuden"],
+["MAXIMUM_PACKAGE_HEIGHT = 1.00mm"],
+["Package = None"],
+["Price = None"],
+["https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=eda", "https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=eda"],
+["STANDARD = IPC-7351B"],
+["PARTREV = NA"],
+["https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=snap", "https://www.snapeda.com/parts/MAJCU168BB7104KTEA01/Taiyo+Yuden/view-part/?ref=snap"],
+["MP = MAJCU168BB7104KTEA01"],
+["Description_1 = 0.1uF 50V 10% Multilayer Ceramic Capacitor X7R 0603 \\u00281608 Metric\\u0029"],
+["Availability = In Stock"],
+["MANUFACTURER = Taiyo Yuden"],
+]\);) >>
+>>
+endobj
+20 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [443.65 276.186 449.263 279.446]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R3"],
+["Value = 10k 1%"],
+["Footprint = RESC1005X37N"],
+["MF = Bourns"],
+["Description_1 = Resistor, AS 0402 10k 1% 63mW TC100 | Bourns CR0402AFX-1002GAS"],
+["Package = 0402-2 Bourns"],
+["Price = None"],
+["https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=snap", "https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=snap"],
+["MP = CR0402AFX-1002GAS"],
+["Availability = In Stock"],
+["https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=eda", "https://www.snapeda.com/parts/CR0402AFX-1002GAS/Bourns/view-part/?ref=eda"],
+]\);) >>
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i in aEntries\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i][1]
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice != null && cChoice.substring\(0, 1\) == '#'\) this.pageNum = parseInt\(cChoice.slice\(1\)\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'http'\) app.launchURL\(cChoice\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'file'\) app.openDoc\(cChoice.substring\(7\)\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+22 0 R
+]
+/Count 1
+>>
+endobj
+58 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20251122224214)
+/Creator (PCBNEW)
+/Title (ESP32-C3 - Bare Bones DevKitM)
+/Author ()
+/Subject ()
+>>
+endobj
+33 0 obj
+<<
+/Title (BOOT)
+/Parent 25 0 R
+/Next 43 0 R
+/A 32 0 R
+>>
+endobj
+43 0 obj
+<<
+/Title (C1)
+/Parent 25 0 R
+/Next 37 0 R
+/Prev 33 0 R
+/A 42 0 R
+>>
+endobj
+37 0 obj
+<<
+/Title (C2)
+/Parent 25 0 R
+/Next 41 0 R
+/Prev 43 0 R
+/A 36 0 R
+>>
+endobj
+41 0 obj
+<<
+/Title (C3)
+/Parent 25 0 R
+/Next 51 0 R
+/Prev 37 0 R
+/A 40 0 R
+>>
+endobj
+51 0 obj
+<<
+/Title (C4)
+/Parent 25 0 R
+/Next 49 0 R
+/Prev 41 0 R
+/A 50 0 R
+>>
+endobj
+49 0 obj
+<<
+/Title (C5)
+/Parent 25 0 R
+/Next 45 0 R
+/Prev 51 0 R
+/A 48 0 R
+>>
+endobj
+45 0 obj
+<<
+/Title (ESP32-C3-MINI-1)
+/Parent 25 0 R
+/Next 31 0 R
+/Prev 49 0 R
+/A 44 0 R
+>>
+endobj
+31 0 obj
+<<
+/Title (J1)
+/Parent 25 0 R
+/Next 27 0 R
+/Prev 45 0 R
+/A 30 0 R
+>>
+endobj
+27 0 obj
+<<
+/Title (J2)
+/Parent 25 0 R
+/Next 29 0 R
+/Prev 31 0 R
+/A 26 0 R
+>>
+endobj
+29 0 obj
+<<
+/Title (R1)
+/Parent 25 0 R
+/Next 35 0 R
+/Prev 27 0 R
+/A 28 0 R
+>>
+endobj
+35 0 obj
+<<
+/Title (R2)
+/Parent 25 0 R
+/Next 53 0 R
+/Prev 29 0 R
+/A 34 0 R
+>>
+endobj
+53 0 obj
+<<
+/Title (R3)
+/Parent 25 0 R
+/Next 39 0 R
+/Prev 35 0 R
+/A 52 0 R
+>>
+endobj
+39 0 obj
+<<
+/Title (R4)
+/Parent 25 0 R
+/Next 47 0 R
+/Prev 53 0 R
+/A 38 0 R
+>>
+endobj
+47 0 obj
+<<
+/Title (RESET)
+/Parent 25 0 R
+/Prev 39 0 R
+/A 46 0 R
+>>
+endobj
+25 0 obj
+<<
+/Title (Footprints)
+/Parent 24 0 R
+/Count -14
+/First 33 0 R
+/Last 47 0 R
+/A 23 0 R
+>>
+endobj
+24 0 obj
+<<
+/Title (Edge.Cuts \(Page 9\))
+/Parent 59 0 R
+/Count -1
+/First 25 0 R
+/Last 25 0 R
+/A 23 0 R
+>>
+endobj
+59 0 obj
+<< /Type /Outlines
+   /Count 16
+   /First 24 0 R
+   /Last 24 0 R
+>>
+endobj
+60 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 59 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 61
+0000000000 65535 f 
+0000014395 00000 n 
+0000001934 00000 n 
+0000002047 00000 n 
+0000013716 00000 n 
+0000000015 00000 n 
+0000000202 00000 n 
+0000002068 00000 n 
+0000002880 00000 n 
+0000003643 00000 n 
+0000004455 00000 n 
+0000005284 00000 n 
+0000006048 00000 n 
+0000006979 00000 n 
+0000007743 00000 n 
+0000008686 00000 n 
+0000009625 00000 n 
+0000010263 00000 n 
+0000011091 00000 n 
+0000012022 00000 n 
+0000012953 00000 n 
+0000000221 00000 n 
+0000000334 00000 n 
+0000000538 00000 n 
+0000015899 00000 n 
+0000015794 00000 n 
+0000000585 00000 n 
+0000015294 00000 n 
+0000000649 00000 n 
+0000015379 00000 n 
+0000000713 00000 n 
+0000015209 00000 n 
+0000000777 00000 n 
+0000014612 00000 n 
+0000000841 00000 n 
+0000015464 00000 n 
+0000000905 00000 n 
+0000014771 00000 n 
+0000000969 00000 n 
+0000015634 00000 n 
+0000001033 00000 n 
+0000014856 00000 n 
+0000001097 00000 n 
+0000014686 00000 n 
+0000001161 00000 n 
+0000015111 00000 n 
+0000001225 00000 n 
+0000015719 00000 n 
+0000001289 00000 n 
+0000015026 00000 n 
+0000001353 00000 n 
+0000014941 00000 n 
+0000001417 00000 n 
+0000015549 00000 n 
+0000001481 00000 n 
+0000001588 00000 n 
+0000001703 00000 n 
+0000001815 00000 n 
+0000014455 00000 n 
+0000016013 00000 n 
+0000016097 00000 n 
+trailer
+<< /Size 61 /Root 60 0 R /Info 58 0 R >>
+startxref
+16238
+%%EOF

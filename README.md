@@ -1,6 +1,6 @@
 # ESP32-C3 - Bare Bones DevKitM - KiCAD Source Files
 
-This project is a work in progress.
+![Assembled Board](esp32-c3-bare-bones-assembled.jpg)
 
 ## Goal: 
 
@@ -25,3 +25,7 @@ The board will need to be programmed with an FDTI programmer as there is no USB 
 [PDF Version](esp32-c3-bare-bones-schematic.pdf)
 
 ![Board schematic](esp32-c3-bare-bones-schematic.png)
+
+## PCB Layout:
+
+![Board schematic](esp32-c3-bare-bones-PCB.svg)
