@@ -1,5 +1,7 @@
 # ESP32-C3 - Bare Bones DevKitM - KiCAD Source Files
 
+[![Project Available on PCBWay](pcb-project-image.png)](https://www.pcbway.com/project/shareproject/ESP32_C3_Bare_Bones_DevKitM_Ultra_Low_Power_ff5d294b.html)
+
 ![Assembled Board](esp32-c3-bare-bones-assembled.jpg)
 
 ## Goal: 
@@ -13,6 +15,8 @@ The board will need to be powered directly with a power source between 3.0 and 3
 This board was designed to be powered by a 3.2v LiFePO4 battery. LiFePO4 batteries can reach 3.65v when fully charged. A BMS set to cut off at 3.6V or slightly lower will be necesary.
 
 The board will need to be programmed with an FDTI programmer as there is no USB interface.
+
+[![Project Available on PCBWay](pcb-project-image.png)](https://www.pcbway.com/project/shareproject/ESP32_C3_Bare_Bones_DevKitM_Ultra_Low_Power_ff5d294b.html)
 
 ## Resources:
 
