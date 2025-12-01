@@ -1,5 +1,9 @@
 # ESP32-C3 - Bare Bones DevKitM - KiCAD Source Files
+---
+This repo comes with a tutorial.
 
+* [Save Battery Life on Your ESP32 - How to Make a custom PCB](https://bj-dehaan-solutions.com.au/articles/arduino-esp32-iot/save-battery-life-on-your-esp32-how-to-make-a-custom-pcb)
+---
 [![Project Available on PCBWay](pcb-project-image.png)](https://www.pcbway.com/project/shareproject/ESP32_C3_Bare_Bones_DevKitM_Ultra_Low_Power_ff5d294b.html)
 
 ![Assembled Board](esp32-c3-bare-bones-assembled.jpg)
@@ -20,9 +24,11 @@ The board will need to be programmed with an FDTI programmer as there is no USB 
 
 ## Resources:
 
+* [Save Battery Life on Your ESP32 - How to Make a custom PCB - Tutorial](https://bj-dehaan-solutions.com.au/articles/arduino-esp32-iot/save-battery-life-on-your-esp32-how-to-make-a-custom-pcb)
 * [ESP32-C3-MINI-1 MCU Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf)
 * [ESP32-C3-DevKitM-1 Docs](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c3/esp32-c3-devkitm-1/user_guide.html)
 * [ESP32-C3-DevKitM-1 Schematic](https://dl.espressif.com/dl/schematics/SCH_ESP32-C3-DEVKITM-1_V1_20200915A.pdf)
+
 
 ## Schematic:
 
