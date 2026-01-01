@@ -16,7 +16,7 @@ This board is designed to consume as little power as possible while in deep slee
 
 The board will need to be powered directly with a power source between 3.0 and 3.6v. It is important that the voltage never exceed 3.6v. Regular Lipo batteries typically have a maximum voltage of 4.2v so are not suitable.
 
-This board was designed to be powered by a 3.2v LiFePO4 battery. LiFePO4 batteries can reach 3.65v when fully charged. A BMS set to cut off at 3.6V or slightly lower will be necesary.
+This board was designed to be powered by a 3.2v LiFePO4 battery. Ideally charged with an external Battery Management System (BMS) that has a high-voltage cutoff at or below 3.6V. You can always test the batteries voltage first. If over 3.6V wait for it to discharge or apply small load with an LED for a few minutes.
 
 The board will need to be programmed with an FDTI programmer as there is no USB interface.
 
