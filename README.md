@@ -1,4 +1,11 @@
 # ESP32-C3 - Bare Bones DevKitM - KiCAD Source Files
+
+---
+
+## UPDATE: 
+
+Version 2 of this board [available here](https://github.com/Ben-BJD/ESP32-C3-Barebones-V2-Ultra-Low-Power-with-Regulator-Bypass). Featuring a unique dual-mode power system, a 4-layer PCB for improved RF performance, and a compact form factor with castellated edges, making it ideal for both battery-powered IoT prototypes and integration into larger projects.
+
 ---
 This repo comes with a tutorial.
 
